@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"typescript.implementationsCodeLens.enabled": true,
+		"javascript.format.semicolons": "insert"
+	}
+}

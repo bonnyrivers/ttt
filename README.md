@@ -1,2 +1,0 @@
-# ttt
-tic-tac-toe
